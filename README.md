@@ -1,4 +1,4 @@
-# Hybrid deep learning model for reservoir inflow simulation
+# Interpretable hybrid deep learning model for reservoir inflow simulation
 ## Overview
 This repository contains codes to build the hybrid model which decomposes inflow into precipitation-runoff and routing processes to simulate the reservoir inflow in the Missouri River Basin - Mainstem System Reservoirs, as described in the papers
 
