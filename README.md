@@ -9,4 +9,6 @@ If you have any questions or ideas regards to the code, feel free to contact Jin
 ## Key designs
 The meteorological information undergoes preprocessing via an LSTM (Long Short-Term Memory) network, wherein hidden states capture historical water information. Different lengths of hidden states are subsequently connected to a Routing and Precipitation-routing module to represent separate physical processes. The total inflow is the sum of these two parts.
 
-![workflow](https://github.com/jinyal/hybrid_model/assets/59593913/dabb238f-e3ed-41b2-8efc-2eed41747a56)
+![workflow](https://github.com/jinyal/hybrid_model/assets/59593913/84c34342-9ec3-463d-ac9b-2d0fd7d52fd4)
+
+
